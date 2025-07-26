@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand">, I'm Mohamed Hussein</h1>
+  <h1>Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand">,I'm Mohamed Hussein</h1>
   <h4>A frontend developer passionate about building clean, accessible, and modern web apps with React and TypeScript.</h4>
 </div>
 
