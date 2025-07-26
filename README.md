@@ -3,23 +3,29 @@
   <h4>A frontend developer passionate about building clean, accessible, and modern web apps with React and TypeScript.</h4>
 </div>
 
+<div align="center">
+  <a href="https://cluab.github.io/1999AZZAR/">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  </a>
+</div>
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdifatahyasin1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Berry-Hussein&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### About Me
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m learning **TypeScript and advanced frontend architecture**
 - 👯 I’m looking to collaborate on **frontend-heavy projects**
-- 💬 Ask me about **React, TypeScript, Redux, and CSS**
+- 💬 Ask me about **React, TypeScript, Redux, CSS, and SQL**
 - 📫 Reach me at: **MohamedBerryHussein@gmail.com**
 - 📞 Phone: **07985668369**
 
 ### Connect with Me
 <p align="left">
-  <a href="https://twitter.com/cabdifataaxyy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  <!-- Twitter icon placeholder, no link -->
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  
   <a href="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -52,5 +58,5 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdifatahyasin1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Berry-Hussein&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
