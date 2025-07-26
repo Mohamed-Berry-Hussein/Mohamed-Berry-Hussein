@@ -1,5 +1,5 @@
-<div align="center">
-  <h1 style="font-weight: 700; margin-bottom: 5px margin-right:20px;">
+div align="center">
+  <h1 style="font-weight: 700; margin-bottom: 5px;">
     Hi
     <img 
       src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" 
@@ -12,6 +12,7 @@
   <p style="font-weight: 600; margin-top: 0; margin-bottom: 20px;">
     A frontend developer passionate about building clean, accessible, and modern web apps with React and TypeScript.
   </p>
+</div>
 
   <!-- GitHub contribution snake (optional) -->
   <a href="https://cluab.github.io/1999AZZAR/">
