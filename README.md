@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-weight: 700; margin-bottom: 5px;">
+  <h1 style="font-weight: 700; margin-bottom: 5px margin-right:10px;">
     Hi
     <img 
       src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" 
