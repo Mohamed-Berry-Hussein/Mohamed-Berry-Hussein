@@ -1,5 +1,10 @@
 <div align="center">
-<h1>Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand" style="vertical-align: middle;"> I'm Mohamed Hussein</h1>
+<h1>
+  Hi <span style="display: inline-flex; align-items: center;">
+    <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="Waving Hand" style="margin-left: 4px; margin-right: 6px; vertical-align: middle;" />
+    I'm Mohamed Hussein
+  </span>
+</h1>
   <h4>A frontend developer passionate about building clean, accessible, and modern web apps with React and TypeScript.</h4>
 </div>
 
