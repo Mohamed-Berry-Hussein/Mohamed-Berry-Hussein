@@ -44,7 +44,7 @@ div align="center">
     <a href="" target="_blank" style="margin-right: 15px;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/" target="_blank">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
   </p>
